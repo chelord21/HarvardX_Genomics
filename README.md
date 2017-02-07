@@ -1,6 +1,6 @@
-# HarvardX_Genomics
+# Statistics and R
 
-This project has my own code written in [R](https://www.r-project.org/) for the online course "HarvardX: PH525.1x Statistics and R", found in [EDX website](https://www.r-project.org/)
+This project has my own code written in [R](https://www.r-project.org/) for the online course [HarvardX: PH525.1x Statistics and R](https://www.edx.org/course/statistics-r-harvardx-ph525-1x)", found in [EDX](https://www.edx.org/)
 
 ## License
 
